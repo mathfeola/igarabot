@@ -1,0 +1,25 @@
+{
+  "name": "igarabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mathfeola/igarabot.git"
+  },
+  "author": "Matheus Feola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathfeola/igarabot/issues"
+  },
+  "homepage": "https://github.com/mathfeola/igarabot#readme",
+  "dependencies": {
+    "axios": "^0.15.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
